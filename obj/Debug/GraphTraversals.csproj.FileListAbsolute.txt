@@ -1,7 +1,0 @@
-c:\users\adibha\Source\Repos\GraphTraversals\GraphTraversals\bin\Debug\GraphTraversals.exe.config
-c:\users\adibha\Source\Repos\GraphTraversals\GraphTraversals\bin\Debug\GraphTraversals.exe
-c:\users\adibha\Source\Repos\GraphTraversals\GraphTraversals\bin\Debug\GraphTraversals.pdb
-c:\users\adibha\Source\Repos\GraphTraversals\GraphTraversals\obj\Debug\GraphTraversals.csprojResolveAssemblyReference.cache
-c:\users\adibha\Source\Repos\GraphTraversals\GraphTraversals\obj\Debug\GraphTraversals.csproj.CoreCompileInputs.cache
-c:\users\adibha\Source\Repos\GraphTraversals\GraphTraversals\obj\Debug\GraphTraversals.exe
-c:\users\adibha\Source\Repos\GraphTraversals\GraphTraversals\obj\Debug\GraphTraversals.pdb
